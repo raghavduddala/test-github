@@ -1,2 +1,2 @@
-# quadruped-control
-This is a RL based Quadruped Controller Repo (This should be changed after)
+# test-github
+This is just for quick and rough testing on git 
